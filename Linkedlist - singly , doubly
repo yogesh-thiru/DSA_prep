@@ -12,3 +12,5 @@ detect cycle and break the loop
        https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
 detect loop and retrun the loop node
        https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1
+remove dup element in sorted list
+        https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1
